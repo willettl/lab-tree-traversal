@@ -1,4 +1,4 @@
-lab-tree-traversal-2019
-=======================
+lab-tree-traversal-c
+====================
 
-Code for a lab on traversing trees.
+The latest iteration of our lab on tree traversal.
